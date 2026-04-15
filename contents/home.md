@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ME-WangjianWu](https://img.shields.io/badge/ME-WangjianWu-github-blue?logo=github)](https://github.com/ME-WangjianWu)
 
 He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
