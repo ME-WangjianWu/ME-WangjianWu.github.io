@@ -1,6 +1,6 @@
 
 
-[![GitHub: ME-wangjianwu](https://img.shields.io/badge/GitHub-ME--wangjianwu-blue?logo=github)](https://github.com/ME-wangjianwu)
+[![ME-WangjianWu](https://img.shields.io/badge/ME-WangjianWu-github-blue?logo=github)](https://github.com/ME-WangjianWu)
 
 He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
