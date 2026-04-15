@@ -2,15 +2,16 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently pursuing a Ph.D. in Mechanical Engineering at the College of Mechanical and Electrical Engineering, Nanjing University of Aeronautics and Astronautics, China.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: wuwangjian22[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2025-至今, 南京航空航天大学, 机械工程, 博士\
+2022-2025, 南京航空航天大学, 机械工程, 硕士\
+2018-2022，安徽工业大学, 机械设计制造及其自动化, 学士
 
 #### Research Interests
 Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
