@@ -6,7 +6,7 @@
 
 - <strong>W.J. Wu</strong>, H.Y. Nie, J. Zheng, J. Li, L. Wei, R.P. Zhu, and D. Wang* (2026). Experimental and Numerical Analysis of Ballistic Impact Damage of Helicopter Composite Tail Drive Shaft. <strong>Polymer Composites</strong>. [[Paper]](https://doi.org/10.1002/pc.70924)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>吴汪箭</strong>, 游有鹏, 朱如鹏, 王旦*(2024). 考虑拉伸和弯曲载荷的多工况CFRP-Al胶接结构多目标优化设计. <strong>复合材料科学与工程</strong>. [[Paper]](https://doi.org/10.19936/j.cnki.2096-8000.20250728.010.)
 
 - A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
 
