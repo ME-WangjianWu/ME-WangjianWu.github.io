@@ -1,6 +1,6 @@
 
 
-[![me-wangjianwu](https://img.shields.io/badge/me--wangjianwu-github-blue?logo=github)](https://github.com/me-wangjianwu)
+[![bruceqd](https://img.shields.io/badge/bruceqd-github-blue?logo=github)](https://github.com/bruceqd)
 
 He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
