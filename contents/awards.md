@@ -1,13 +1,13 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- 国家奖学金, 中华人民共和国教育部, 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- 南京航空航天大学优秀毕业生, 南京航空航天大学, 2025.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
+- 南京航空航天大学一等奖学金, 南京航空航天大学, 2023 & 2024 & 2025.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- 首届空天动力学术论坛优秀论文奖,航空动力学报编辑部, 2024.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- 安徽省高等学校优秀毕业生, 安徽省教育厅, 2022.
+
 
