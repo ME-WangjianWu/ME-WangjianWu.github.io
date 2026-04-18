@@ -1,5 +1,3 @@
-<div align="justify" style="text-align:justify;">
-
 #### Submitted
 
 - In progress
@@ -27,5 +25,3 @@
 - [10]牛礼民*, <strong>吴汪箭</strong>, 魏伟. 一种双模交换发电模组、装置及路灯[P]. <strong>发明专利, CN111865144B, 已实现成果转化-宁波步来特电器有限公司</strong>.
 
 - [11]<strong>吴汪箭</strong>, 牛礼民*. 一种新型智能路灯[P]. <strong>实用新型专利, CN212987055U</strong>.
-
-</div>
