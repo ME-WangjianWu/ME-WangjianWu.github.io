@@ -1,3 +1,5 @@
+<div align="justify" style="text-align:justify;">
+
 #### Submitted
 
 - <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
@@ -25,3 +27,5 @@
 - [10]牛礼民*, <strong>吴汪箭</strong>, 魏伟. 一种双模交换发电模组、装置及路灯[P]. <strong>发明专利, CN111865144B, 转让于宁波步来特电器有限公司</strong>.
 
 - [11]<strong>吴汪箭</strong>, 牛礼民*. 一种新型智能路灯[P]. <strong>实用新型专利, CN212987055U</strong>.
+
+</div>
