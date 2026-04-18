@@ -1,6 +1,6 @@
 
 
-[![ME-WangjianWu](https://img.shields.io/badge/me--WangjianWu-github-blue?logo=github)](https://github.com/ME-WangjianWu)
+[![ME-WangjianWu](https://img.shields.io/badge/ME--WangjianWu-github-blue?logo=github)](https://github.com/ME-WangjianWu)
 
 他目前在南京航空航天大学机电学院攻读机械工程博士学位。
 
